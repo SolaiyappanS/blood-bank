@@ -1,0 +1,16 @@
+.border-3px {
+  border: 3px var(--bs-border-style) var(--bs-danger) !important;
+}
+
+#result {
+  display: none;
+  position: fixed;
+  margin: 5% auto;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.btn-close {
+  background-color: white;
+}
